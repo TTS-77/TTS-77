@@ -1,201 +1,154 @@
-# 👋 Hi, I'm Talha Tabarak Sheikh
+<div align="center">
 
-### `AI/ML Undergraduate • Computer Vision • Backend • Real-Time Systems`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Talha%20Tabarak%20Sheikh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Undergrad%20%7C%20Computer%20Vision%20%7C%20Real-Time%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Undergraduate;Building+Real-Time+Systems;Computer+Vision+%7C+Backend+%7C+AI%2FML;Turning+Ideas+Into+Working+Software." />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+Real-Time+AI+Systems;Computer+Vision+%E2%80%A2+Backend+%E2%80%A2+ML;Turning+Ideas+Into+Working+Software;9.52+CGPA+%E2%80%A2+Class+of+2028" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Developer-00D4FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-Builder-7B61FF?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Developer-00C853?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/AI%2FML-Developer-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Computer%20Vision-Builder-7B61FF?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Backend-Engineer-00C853?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Real--Time-Systems-FF3D71?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
+
+</div>
+
+<br/>
 
 ## 🧠 About Me
 
-I'm an **Artificial Intelligence & Machine Learning undergraduate** with a **9.52 CGPA**, interested in building practical systems at the intersection of **AI, computer vision, backend engineering, and real-time applications**.
-
-I like projects where the code doesn't just sit there — it **sees, processes, communicates, and does something useful.**
+I'm an **AI & Machine Learning undergraduate** (9.52 CGPA) building at the intersection of **computer vision, real-time processing, and backend engineering**. I care less about demos that just sit there — I want code that **sees, reacts, and ships.**
 
 ```text
-AI / ML
-   ↓
-Computer Vision
-   ↓
-Real-Time Processing
-   ↓
-Backend & APIs
-   ↓
-Useful Software 🚀
+AI / ML  →  Computer Vision  →  Real-Time Processing  →  Backend & APIs  →  Shipped Product 🚀
 ```
 
-### Currently focused on
+**Currently deep in:**
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 👁️ Computer Vision
-* ⚡ Real-Time Applications
-* 🔧 Backend Development
-* 🌐 Web Applications
-* 🗄️ Databases & Storage
-* 🧠 Learning by building
+🤖 Artificial Intelligence & Machine Learning&nbsp;&nbsp;•&nbsp;&nbsp;👁️ Computer Vision&nbsp;&nbsp;•&nbsp;&nbsp;⚡ Real-Time Applications
+🔧 Backend Development&nbsp;&nbsp;•&nbsp;&nbsp;🌐 Web Apps&nbsp;&nbsp;•&nbsp;&nbsp;🗄️ Databases & Storage
 
----
+<br/>
 
-# 🚀 Featured Projects
+## 🚀 Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 👁️ Drowsguard
-
 **Real-Time Driver Drowsiness Detection**
-
 `Python` `OpenCV` `MediaPipe` `Flask`
 
-A real-time computer vision system that detects signs of driver drowsiness using live camera input.
+Live computer-vision pipeline that flags driver fatigue in real time from camera input.
 
-**What I worked with:**
+- Facial landmark + eye-closure analysis
+- Neural-net blendshape modeling
+- Real-time video processing
+- Audio alert system + Flask web UI
 
-* 👤 Facial landmark detection
-* 👁️ Eye-closure analysis
-* 🎥 Real-time camera processing
-* 🧠 Neural-network blendshape model
-* 🔊 Audio alert system
-* 🌐 Flask-based web interface
-
-> **Computer Vision · Real-Time Processing · AI/ML**
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤟 EchoSign
-
 **AI-Powered Accessibility Project**
-
 `Python` `AI/ML` `Computer Vision`
 
-An accessibility-focused project designed to reduce communication barriers between **sign-language users and non-signers**.
+Cuts communication barriers between **sign-language users and non-signers** — vision applied to real human impact, not just a demo.
 
-> **AI · Accessibility · Computer Vision**
-
-This is especially worth highlighting because it shows you're not just building technical demos — you're thinking about **real-world impact**.
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💬 TIT-TAT
-
-**Real-Time Group Chat Application**
-
+**Real-Time Group Chat App**
 `Python` `Flask` `Socket.IO` `JavaScript` `SQLite`
 
-A real-time group chat application built to explore how modern web applications handle **live communication and real-time events**.
+Live group messaging built to explore real-time event handling at the web layer.
 
-**Highlights:**
+- WebSocket-driven live messaging
+- Flask backend + SQLite persistence
+- Full frontend/backend integration
 
-* ⚡ Real-time messaging
-* 🔌 WebSocket communication
-* 🐍 Flask backend
-* 🗄️ SQLite database
-* 🌐 Frontend + backend integration
-
-> **Real-Time Web · Backend · WebSockets**
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 📦 Zipkey
-
 **Temporary File Sharing Platform**
-
 `Express.js` `Supabase` `Multer` `JavaScript`
 
-A lightweight file-sharing web application that lets users upload files and share them using a **6-digit access code** instead of long download links.
+Upload a file, get a 6-digit code, share instantly — no long links required.
 
-**Highlights:**
+- Multer-powered uploads
+- Supabase cloud storage
+- Time-limited access codes
 
-* 📤 File uploads
-* 🔐 Temporary access codes
-* 🗄️ Supabase storage
-* 🔧 Multer file handling
-* 🔌 Backend API architecture
+</td>
+</tr>
+</table>
 
-> **Backend · APIs · Cloud Storage · Web Development**
+<br/>
 
----
+## 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
+<div align="center">
 
-### Languages
-
-<p>
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css" />
-</p>
 
-### AI / Computer Vision
-
-<p>
+**AI / Computer Vision**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,opencv" />
-</p>
+`Machine Learning` `OpenCV` `MediaPipe`
 
-`Machine Learning` · `OpenCV` · `MediaPipe`
-
-### Backend
-
-<p>
+**Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
-</p>
+`Flask` `Flask-SocketIO` `Express.js`
 
-`Flask` · `Flask-SocketIO` · `Express.js`
-
-### Databases & Storage
-
-<p>
+**Databases & Storage**
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,sqlite" />
-</p>
 
-`SQL` · `MongoDB` · `Supabase` · `SQLite`
-
-### Tools
-
-<p>
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
 
-`Git` · `GitHub` · `VS Code` · `Linux`
+</div>
 
----
+<br/>
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TTS-77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTS-77&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TTS-77&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=TTS-77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTS-77&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 
----
+<img src="https://streak-stats.demolab.com?user=TTS-77&theme=tokyonight&hide_border=true" />
 
-# 🎓 Education
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TTS-77&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🎓 Education
 
 **B.E. Artificial Intelligence & Machine Learning**
+Alva's Institute of Engineering & Technology · Mangalore, Karnataka, India
+**CGPA: 9.52** · Expected Graduation: 2028
 
-Alva's Institute of Engineering & Technology
-📍 Mangalore, Karnataka, India
+## 📜 Certifications
 
-**CGPA: 9.52** · **Expected Graduation: 2028**
+🏅 **NVIDIA** — AI Infrastructure and Operations Fundamentals
+🏅 **Google** — IT Support Professional Certificate
 
----
+<br/>
 
-# 📜 Certifications
-
-**NVIDIA — AI Infrastructure and Operations Fundamentals**
-
-**Google — IT Support Professional Certificate**
-
----
-
-# ⚡ Developer Mindset
+## ⚡ Developer Mindset
 
 ```python
 def developer():
@@ -208,28 +161,23 @@ def developer():
         ship()
 ```
 
----
+<br/>
 
-# 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
+## 🤝 Let's Connect
 
 <a href="https://github.com/TTS-77">
-<img src="https://img.shields.io/badge/GitHub-TTS--77-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-TTS--77-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<br/><br/>
 
----
+<b>⚡ Build. Experiment. Learn. Ship.</b>
 
-<p align="center">
-  <b>⚡ Build. Experiment. Learn. Ship.</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<p align="center">
-  <i>Thanks for visiting my profile.</i> 👋
-</p>
+</div>
