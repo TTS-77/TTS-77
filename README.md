@@ -50,30 +50,6 @@ Live computer-vision pipeline that flags driver fatigue in real time from camera
 </td>
 <td width="50%" valign="top">
 
-### 🤟 EchoSign
-**AI-Powered Accessibility Project**
-`Python` `AI/ML` `Computer Vision`
-
-Cuts communication barriers between **sign-language users and non-signers** — vision applied to real human impact, not just a demo.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 TIT-TAT
-**Real-Time Group Chat App**
-`Python` `Flask` `Socket.IO` `JavaScript` `SQLite`
-
-Live group messaging built to explore real-time event handling at the web layer.
-
-- WebSocket-driven live messaging
-- Flask backend + SQLite persistence
-- Full frontend/backend integration
-
-</td>
-<td width="50%" valign="top">
-
 ### 📦 Zipkey
 **Temporary File Sharing Platform**
 `Express.js` `Supabase` `Multer` `JavaScript`
