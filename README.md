@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-I'm an **AI & Machine Learning undergraduate** (9.52 CGPA) building at the intersection of **computer vision, real-time processing, and backend engineering**. I care less about demos that just sit there — I want code that **sees, reacts, and ships.**
+I'm an **AI & Machine Learning undergraduate** building at the intersection of **computer vision, real-time processing, and backend engineering**. I care less about demos that just sit there — I want code that **sees, reacts, and ships.**
 
 ```text
 AI / ML  →  Computer Vision  →  Real-Time Processing  →  Backend & APIs  →  Shipped Product 🚀
@@ -77,12 +77,10 @@ Upload a file, get a 6-digit code, share instantly — no long links required.
 **AI / Computer Vision**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,opencv" />
-`Machine Learning` `OpenCV` `MediaPipe`
 
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
-`Flask` `Flask-SocketIO` `Express.js`
 
 **Databases & Storage**
 <br/>
@@ -96,26 +94,11 @@ Upload a file, get a 6-digit code, share instantly — no long links required.
 
 <br/>
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TTS-77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTS-77&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
-
-<img src="https://streak-stats.demolab.com?user=TTS-77&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TTS-77&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
 ## 🎓 Education
 
 **B.E. Artificial Intelligence & Machine Learning**
 Alva's Institute of Engineering & Technology · Mangalore, Karnataka, India
-**CGPA: 9.52** · Expected Graduation: 2028
+**CGPA: 9.54** · Expected Graduation: 2028
 
 ## 📜 Certifications
 
@@ -146,7 +129,7 @@ def developer():
 <a href="https://github.com/TTS-77">
 <img src="https://img.shields.io/badge/GitHub-TTS--77-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/talha-tabarak-sheikh-ba6a48332/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
