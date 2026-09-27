@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Talha%20Tabarak%20Sheikh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Undergrad%20%7C%20Computer%20Vision%20%7C%20Real-Time%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+Real-Time+AI+Systems;Computer+Vision+%E2%80%A2+Backend+%E2%80%A2+ML;Turning+Ideas+Into+Working+Software;9.52+CGPA+%E2%80%A2+Class+of+2028" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+Real-Time+AI+Systems;Computer+Vision+%E2%80%A2+Backend+%E2%80%A2+ML;Turning+Ideas+Into+Working+Software;9.54+CGPA+%E2%80%A2+Class+of+2028" />
 
 <br/>
 
